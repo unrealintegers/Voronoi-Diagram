@@ -1,0 +1,7 @@
+data/
+output/
+Voronoi Algorithm/
+
+*.o
+voronoi2
+voronoi2.exe

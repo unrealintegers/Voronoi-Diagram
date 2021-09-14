@@ -1,0 +1,18 @@
+Reading: 0.5h
+Stage 1 + Setup: 1.5h
+Stage 2: 0.5h + 0.3h + 0.1h + 1.4h + 0.5h (DEBUG) = 2.8h
+(Wasted Due to Invalid Edge 4): 0.6h
+Understanding Stage 3: 3.5h
+Cleaning Up A1 Code: 0.2h + 1.2h + 0.6h + 0.3 = 2.3h
+Pre-Stage 3: 0.2h
+Drawing Algorithm for Stage 3: 2.9h
+"Prep Code" Stage 3: 1h + 1.3h = 2.3h
+Actually Coding Stage 3 (Splits): 0.5h + 0.1h = 0.6h
+Debugging Stage 3: 0.5h + 1h + 1h + 0.3h + 0.3h = 3.1h
+WHY IS ONE TOWER OUTSIDE OF IRREGULAR POLYGON: 0.4h
+Memory Leaks!: 0.6h + 0.5h = 1.1h
+Stage 3 (Diameter): 0.3h
+List Sorting: 0.3h
+Cleaning Up: (22:40)
+
+Total So Far: 22.4h

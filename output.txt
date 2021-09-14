@@ -1,0 +1,4 @@
+Watchtower ID: WT3407PYOAR, Postcode: 3407, Population Served: 420, Watchtower Point of Contact Name: Gale Martin, x: 141.833246, y: -37.285964, Diameter of Cell: 5.690206
+Watchtower ID: WT3266OQUZV, Postcode: 3266, Population Served: 3067, Watchtower Point of Contact Name: Jack Wilcoxen, x: 143.249674, y: -38.463018, Diameter of Cell: 3.987840
+Watchtower ID: WT3523CQSWP, Postcode: 3523, Population Served: 905, Watchtower Point of Contact Name: Mark Seller, x: 144.728949, y: -37.009342, Diameter of Cell: 8.803345
+Watchtower ID: WT3373DXBDC, Postcode: 3373, Population Served: 573, Watchtower Point of Contact Name: Michelle Blind, x: 143.401183, y: -37.536735, Diameter of Cell: 3.729131
