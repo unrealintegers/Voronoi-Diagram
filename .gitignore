@@ -2,7 +2,9 @@ data/
 output/
 Voronoi Algorithm/
 
+*.jpeg
 *.pdf
+*.txt
 *.o
 voronoi2
 voronoi2.exe
