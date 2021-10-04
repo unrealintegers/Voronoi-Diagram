@@ -363,7 +363,7 @@ void updateCells(list_t *faceList, face_t *face, cut_t startCut, cut_t endCut) {
     curTEdge = curTEdge->pair;
 
     while (true) {
-        // If we are back to our original polygon
+        // If we are back to our original face
         if (curTEdge->face == startFace) {
             curNEdge->next = face->edge;
             break;
