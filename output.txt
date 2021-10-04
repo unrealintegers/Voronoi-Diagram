@@ -1,3 +1,0 @@
-Watchtower ID: WT3953SGAEI, Postcode: 3953, Population Served: 1571, Watchtower Point of Contact Name: Ofelia Kadlec, x: 145.778002, y: -38.559840, Diameter of Cell: 7.144748
-Watchtower ID: WT3765SHSPB, Postcode: 3765, Population Served: 3380, Watchtower Point of Contact Name: Eilene Horner, x: 145.362014, y: -37.818943, Diameter of Cell: 9.518041
-Watchtower ID: WT3530RJWDT, Postcode: 3530, Population Served: 63, Watchtower Point of Contact Name: Troy Clark, x: 143.083467, y: -35.792994, Diameter of Cell: 7.935830
